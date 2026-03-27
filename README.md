@@ -1,6 +1,6 @@
 # 🏷️ Project Title
 
-Work4Flow – GenAI UI Slide Showcase (High-Fidelity HTML/CSS Presentation Interface)
+Work4Flow – GenAI Slide Deck (High-Fidelity HTML/CSS Presentation Interface)
 
 ---
 
