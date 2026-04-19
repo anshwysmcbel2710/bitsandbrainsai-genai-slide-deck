@@ -1,6 +1,6 @@
 # 🏷️ Project Title
 
-Work4Flow – GenAI Slide Deck (High-Fidelity HTML/CSS Presentation Interface)
+BITS & BRAINS AI – GenAI Slide Deck (High-Fidelity HTML/CSS Presentation Interface)
 
 ---
 
